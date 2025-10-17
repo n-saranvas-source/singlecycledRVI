@@ -1,0 +1,21 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sim_1/new/testTB.v,1741867248,verilog,,,,testTB,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/ALU.v,1742068422,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/ALUControl.v,,ALU,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/ALUControl.v,1742068332,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Adder.v,,ALUControl,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Adder.v,1741850405,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/And_Logic.v,,Adder,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/And_Logic.v,1741954319,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Control_Unit.v,,And_Logic,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Control_Unit.v,1741963614,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Data_Memory.v,,Control_Unit,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Data_Memory.v,1741865156,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Immediate_Generator.v,,Data_Memory,,,,,,,,
+,,,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Instruction_Mem.v,,Immediate_Generator,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Instruction_Mem.v,1741850400,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Mux1.v,,Instruction_Mem,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Mux1.v,1741865379,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Mux2.v,,Mux1,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Mux2.v,1741865458,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Mux3.v,,Mux2,,,,,,,,
+,,,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/PCplus4.v,,Mux3,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/PCplus4.v,1741871835,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Program_Counter.v,,PCplus4,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Program_Counter.v,1741871786,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/RISCV_TOP.v,,Program_Counter,,,,,,,,
+C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/RISCV_TOP.v,1741947922,verilog,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sources_1/new/Register_File.v,,RISCV_TOP,,,,,,,,
+,,,,C:/Users/Saran/Desktop/VIVA/singleCycledRV32I/singleCycledRV32I.srcs/sim_1/new/testTB.v,,Register_File,,,,,,,,

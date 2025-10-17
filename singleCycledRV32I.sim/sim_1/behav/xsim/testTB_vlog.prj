@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../singleCycledRV32I.srcs/sources_1/new/ALU.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/ALUControl.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Adder.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/And_Logic.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Control_Unit.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Data_Memory.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Immediate_Generator.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Instruction_Mem.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Mux1.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Mux2.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Mux3.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/PCplus4.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Program_Counter.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/RISCV_TOP.v" \
+"../../../../singleCycledRV32I.srcs/sources_1/new/Register_File.v" \
+"../../../../singleCycledRV32I.srcs/sim_1/new/testTB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
